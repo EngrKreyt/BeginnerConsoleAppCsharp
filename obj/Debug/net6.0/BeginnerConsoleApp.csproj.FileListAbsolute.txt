@@ -1,0 +1,15 @@
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\bin\Debug\net6.0\BeginnerConsoleApp.exe
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\bin\Debug\net6.0\BeginnerConsoleApp.deps.json
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\bin\Debug\net6.0\BeginnerConsoleApp.runtimeconfig.json
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\bin\Debug\net6.0\BeginnerConsoleApp.dll
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\bin\Debug\net6.0\BeginnerConsoleApp.pdb
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.AssemblyInfo.cs
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.dll
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\refint\BeginnerConsoleApp.dll
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.pdb
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\BeginnerConsoleApp.genruntimeconfig.cache
+C:\Users\Rio Mar\Documents\GitHub\BeginnerConsoleApp\obj\Debug\net6.0\ref\BeginnerConsoleApp.dll
